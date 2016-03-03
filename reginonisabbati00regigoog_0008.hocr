@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reginonisabbati00regigoog_0008.png"; bbox 0 0 2978 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 578 95 1233 283">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 578 95 1233 283">
+     <span class='ocr_line' id='line_1_1' title="bbox 578 95 1233 283; baseline -0.012 -63"><span class='ocrx_word' id='word_1_1' title='bbox 578 95 1233 283; x_wconf 25' lang='lat' dir='ltr'>QWQMQQRQM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 681 1220 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 681 1220 1152">
+     <span class='ocr_line' id='line_1_2' title="bbox 466 681 852 810; baseline 0.005 -4"><span class='ocrx_word' id='word_1_2' title='bbox 466 681 852 810; x_wconf 85' lang='lat' dir='ltr'>REGINONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 98 1015 1220 1152; baseline 0.004 -6"><span class='ocrx_word' id='word_1_3' title='bbox 98 1015 528 1149; x_wconf 76' lang='lat' dir='ltr'><strong>ABBATIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 598 1015 1220 1152; x_wconf 76' lang='lat' dir='ltr'><strong>PRUMIENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 412 1361 913 1533">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 412 1361 913 1533">
+     <span class='ocr_line' id='line_1_4' title="bbox 412 1361 913 1533; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 412 1361 913 1533; x_wconf 76' lang='lat' dir='ltr'>CHRONIOON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 243 1784 1074 1868">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 243 1784 1074 1868">
+     <span class='ocr_line' id='line_1_5' title="bbox 243 1784 1074 1868; baseline 0.005 -4"><span class='ocrx_word' id='word_1_6' title='bbox 243 1784 393 1866; x_wconf 89' lang='lat' dir='ltr'>CUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 438 1785 1074 1868; x_wconf 88' lang='lat' dir='ltr'><strong>CONTINUATIONE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 470 2067 843 2167">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 470 2067 843 2167">
+     <span class='ocr_line' id='line_1_6' title="bbox 470 2067 843 2167; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 470 2067 843 2167; x_wconf 85' lang='lat' dir='ltr'><strong>TREVERENSI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 289 3072 1023 3166">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 289 3072 1023 3166">
+     <span class='ocr_line' id='line_1_7' title="bbox 289 3072 1023 3166; baseline 0.004 -3"><span class='ocrx_word' id='word_1_9' title='bbox 289 3072 732 3165; x_wconf 81' lang='lat' dir='ltr'><strong>FRIDERIGUS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 776 3073 1023 3166; x_wconf 81' lang='lat' dir='ltr'><strong>KURZE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1494 4950">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1494 4950">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1494 4950; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1494 4950; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
